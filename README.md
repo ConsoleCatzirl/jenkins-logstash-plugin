@@ -1,1 +1,1 @@
-Development has moved to [Jenkins](https://github.com/jenkinsci/logstash-plugin)
+Development has moved to [JenkinsCI](https://github.com/jenkinsci/logstash-plugin)
